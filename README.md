@@ -1,0 +1,2 @@
+# dagang
+Aplikasi dagang
